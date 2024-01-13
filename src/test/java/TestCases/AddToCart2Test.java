@@ -15,7 +15,7 @@ public class AddToCart2Test extends BaseClass {
 		System.out.println(Name);
 		System.out.println(Name);
 		System.out.println("tryqwfdhqwgdv");
-		System.out.println("gfdywdfuqwvdkb");
+		
 	}
 	
 
